@@ -1,0 +1,12 @@
+.nav {
+    display: flex;
+    gap: 50px;
+    text-decoration-line: none;
+    height: 75px;
+}
+
+.option{
+    display: flex;
+    gap: 20px;
+}
+
